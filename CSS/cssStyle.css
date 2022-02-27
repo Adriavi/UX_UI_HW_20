@@ -1,0 +1,114 @@
+
+
+
+h1 {
+  text-align-last: center;
+  color: rgb(101, 48, 187);
+  margin-block-end:auto;
+ 
+}
+
+.uxtext {
+  text-align: center;
+  font-size: large;
+}
+
+
+.inline-block  {
+  display: block;
+  width: 50%;
+  margin: auto;
+  padding: 10px;;
+
+}
+
+
+
+.nav {
+  background-color: #20212e6c; 
+  vertical-align: top;
+  list-style-type: none;
+  text-align: end;
+  margin: 0;
+  padding: 0;
+}
+.nav li a {
+  color: rgb(221, 206, 217);
+}
+.heroimg {
+  background-color: #27294148;
+  text-align: end;
+  height: 600px;
+  padding: 25px;
+}
+
+.nav li {
+  display: inline-block;
+  font-size: 20px;
+  padding: 20px;
+}
+
+.content{
+background-color: rgba(1, 0, 2, 0.959);
+}
+
+.profile {
+  width: 500px;
+  display: inline-block;
+  margin-block-end: auto;
+  background-color: #9198e50a;
+
+}
+
+.moreaboutme{
+  color: aliceblue;
+}
+.Agatha1 {
+  display: block;
+  width: 8%;
+  margin-left: auto;
+  margin-right: auto;
+  text-align:center;
+  background-color: rgba(105, 90, 205, 0);
+}
+
+.flex {
+  display: flex;
+}
+  
+
+.author {
+  text-align: center;
+}
+
+
+
+
+
+
+
+/* These styles are just used to create our mock get started form */
+section {
+  background-color: rgba(135, 48, 161, 0.274);
+  padding: 25px;
+  background-image: url("../images/website\ background.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+img {
+  width: 200px;
+}
+input {
+  display: block;
+  width: 100%;
+  padding: 4%;
+  -webkit-appearance: none;
+  /* max-width: 330px; */
+  box-sizing: border-box;
+}
+h3 {
+  margin: 10px 0px;
+}
+.submit {
+  margin-top: 20px;
+}
