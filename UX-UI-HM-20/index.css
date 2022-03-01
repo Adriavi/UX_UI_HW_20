@@ -1,0 +1,42 @@
+.navbar-brand{
+    text-shadow: none;
+}
+
+
+.jumbotron{
+    color: blueviolet;
+}
+.container{
+    margin-top: 8%;
+    background-image: linear-gradient(rgba(0, 0, 255, 0.5), rgba(225, 0, 255, 0.5)),
+    url("./h");
+
+}
+.inner{
+    overflow: hidden;
+}
+.inner-img{
+    transition: all 1.5s ease;
+}
+.inner:hover img{
+    transform: scale(1.5);
+}
+
+.d-inline-block align-top {
+    animation: floating 2s ease-in-out infinite;
+}
+.btn {
+    color: rgb(153, 0, 255);
+}
+.display-4{
+    text-align: center;
+    text-shadow: none;
+    animation: floating 2s ease-in-out infinite;
+
+}
+.lead{
+    text-align: center;
+}
+.btn {
+    text-align: center;
+}
